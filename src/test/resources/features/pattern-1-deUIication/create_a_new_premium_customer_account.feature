@@ -13,6 +13,6 @@ Feature: Create a new contact
     And I click on "Create"
     Then the customer should be created
     And the customer details should be displayed
-    When the cusomer logs on
+    When the customer logs on
     Then the Premium Welcome Page should be displayed
 
