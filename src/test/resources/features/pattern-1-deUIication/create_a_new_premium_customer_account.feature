@@ -16,3 +16,4 @@ Feature: Create a new contact
     When the customer logs on
     Then the Premium Welcome Page should be displayed
 
+
