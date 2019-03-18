@@ -11,7 +11,3 @@ Feature: Booking a hotel
     When the user clicks on the first hotel
     Then verify that if the hotel is out of policy then a message should be displayed
     And verify that if the hotel is not out of policy then the hotel should be allowed
-
-
-Give enough information to understand the scenario intent
-Do not bind the solution to a specific UI or implementation
