@@ -1,6 +1,6 @@
-Feature: Create a new contact
+Feature: Creating new contacts
 
-  Scenario: Creating a new support call entry
+  Scenario: Creating a new customer contact
     Given I am on the home page
     When I click on the "Customers" icon
     And I click on "Contacts"
@@ -10,6 +10,6 @@ Feature: Create a new contact
     And I enter "10 Main Street, Trapville" in the Address field
     And I enter "Switzerland" in the Country field
     And I click on "Create"
-    Then the contract should be created
-    And the contract details should be displayed
+    Then the contact should be created
+    And the contact details should be displayed
 
