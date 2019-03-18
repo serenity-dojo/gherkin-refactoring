@@ -26,4 +26,4 @@ Feature: Sales tax
     When sales tax is calculated
     Then the updated purchase order should be:
       | Order ID | Order Date | Customer ID | Product | Product Code | Unit Cost | Quantity | Net Cost | Tax Category | Tax Rate | Total |
-      | 1002     | 2019-04-15 | 2345234     | Bananas | 4645645      | 2.5       | 2        | 5        | Exempt       | 0%       | 5     |
+      | 1002     | 2019-04-15 | 2345234     | Bread | 4645645      | 2.5       | 2        | 5        | Exempt       | 0%       | 5     |

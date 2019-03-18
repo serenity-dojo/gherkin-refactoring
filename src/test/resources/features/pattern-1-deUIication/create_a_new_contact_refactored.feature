@@ -1,4 +1,4 @@
-Feature: Create a new contact
+Feature: Managing support call entries
 
   Scenario: Creating a new support contact
     Given Sally is a support user
