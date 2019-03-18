@@ -1,6 +1,6 @@
-Feature: Managing support call entries
+Feature: Creating new contacts
 
-  Scenario: Creating a new support call entry
+  Scenario: Creating a new customer contact
     Given I am on the home page
     When I click on the "Customers" icon
     And I click on "Contacts"
