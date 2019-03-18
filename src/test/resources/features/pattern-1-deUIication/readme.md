@@ -33,3 +33,4 @@ We can improve scenarios like these ones by making them less imperative and more
 
 * Refactor the [Create A Premium Customer Account](create_a_new_premium_customer_account.feature) feature using the deUIication pattern.
 
+* Refactor the [Report Filtering](report_filtering.feature) feature using the deUIication pattern.
